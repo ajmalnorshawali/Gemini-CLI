@@ -1,6 +1,6 @@
 # TUTORIAL - GEMINI CLI
 
-## SYSTEM REQUIREMENTS
+### SYSTEM REQUIREMENTS
 * Node.js version 20 or higher installed.
 * Personal Google Account
 
